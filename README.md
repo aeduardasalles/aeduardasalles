@@ -1,15 +1,4 @@
-## Hi there ✨
-While my core expertise lies in UX/UI Design, I utilize GitHub as a vital bridge between design and development. My experience with the platform focuses on maintaining design systems, contributing to open-source documentation, and ensuring a seamless hand-off process for developers.
 
-I use GitHub to:
-
-  📌  Collaborate on Code: I am comfortable navigating repositories to assist in UI implementation, ensuring that the final product aligns perfectly with high-fidelity prototypes.
-
-  📌 Version Control for Design: I manage documentation and assets, understanding the importance of branching and pull requests in an agile environment.
-
-  📌 Bridge the Gap: By understanding the developer's workflow, I can structure my hand-offs to be more efficient, reducing friction during the transition from Figma to live code.
-
-My presence on GitHub reflects my commitment to the entire product lifecycle—from initial UX research to the technical reality of a functional, user-centric application.
 <table border="0">
   <tr>
     <td width="60%">
@@ -31,6 +20,7 @@ My presence on GitHub reflects my commitment to the entire product lifecycle—f
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </div>
 
 ---
@@ -38,10 +28,10 @@ My presence on GitHub reflects my commitment to the entire product lifecycle—f
 ### 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aeduardasalles/" target="_blank">
+  <a href="https://linkedin.com/in/eduarda-alexandre-de-salles/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:contato.eduardasalles@gmail.com">
+  <a href="mailto:a.eduardasalles@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://aeduardasalles.framer.website/" target="_blank">
