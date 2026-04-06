@@ -17,8 +17,8 @@ My presence on GitHub reflects my commitment to the entire product lifecycle—f
       <p>While my core expertise lies in <b>UX/UI Design</b>, I utilize GitHub as a vital bridge between design and development. My experience with the platform focuses on maintaining design systems, contributing to open-source documentation, and ensuring a seamless hand-off process for developers.
 </p>
     </td>
-    <td width="40%">
-      <img src="[https://aeduardasalles.framer.website/sua-foto.png](https://media.licdn.com/dms/image/v2/D4D03AQENCyDpb8V82Q/profile-displayphoto-scale_200_200/B4DZfhw5QkHAAc-/0/1751839382339?e=1776902400&v=beta&t=Y7pcjzG1U8yLEy9rZk7UcM9LGPHa6scS9XtbauqCD6w)" width="200px" style="border-radius: 50%;">
+    <td width="15%">
+      <img src="Frame 36.png" width="200px" style="border-radius: 50%;">
     </td>
   </tr>
 </table>
